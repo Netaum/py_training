@@ -14,6 +14,8 @@ elif int_var > 5:
 else:
     print('menor')
 
+int_var = 100 if int_var > 5 else 50
+
 while int_var < 30:
     int_var += 1
     if int_var % 3 == 0:

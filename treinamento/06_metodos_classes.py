@@ -15,7 +15,7 @@ funcao3(5)
 funcao3(6,'teste')
 
 
-class NomeClasse:
+class NomeClasse(object):
     def __init__(self):
         self.id = 1
 

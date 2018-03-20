@@ -13,6 +13,8 @@ var_lista = [] #declaração simples
 print(var_lista)
 var_lista = [1,2,3,4,5]
 print(var_lista)
+var_lista = [0] * 10
+print(var_lista)
 var_lista.append(6)
 var_lista.append(7)
 print(var_lista)

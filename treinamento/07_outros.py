@@ -9,3 +9,5 @@ from datetime import datetime
 from io import *
 # Para procurar um pacote, utilze o site https://pypi.python.org/pypi
 # Ou o google :)
+# Comando: pip install <pacote>
+from jira import JIRA
