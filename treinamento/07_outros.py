@@ -7,3 +7,5 @@ import io, sys
 from datetime import datetime
 # ou importar tudo
 from io import *
+# Para procurar um pacote, utilze o site https://pypi.python.org/pypi
+# Ou o google :)

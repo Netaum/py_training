@@ -5,4 +5,4 @@
 def converter(frase):
     return None
 
-assert converter("Oi mundo") == "PeOi pemunpedo"
+assert converter("Oi mundo") == "PeOi pemundo"
